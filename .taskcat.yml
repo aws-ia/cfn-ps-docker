@@ -1,5 +1,5 @@
 project:
-  name: quickstart-docker
+  name: cfn-ps-docker
   owner: quickstart-eng@amazon.com
   package_lambda: false
   regions:
