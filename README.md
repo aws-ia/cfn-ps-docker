@@ -1,3 +1,7 @@
+## Deprecation Notice
+
+:x: This repository is subject to deprecation in Q4 2024. For more details, [please review this announcement](https://github.com/aws-ia/.announcements/issues/1). 
+
 ## Docker Enterprise Edition on AWS
 This Quick Start to automatically set up the following Docker Enterprise Edition (EE) environment on AWS:
 * A virtual private cloud (VPC) that spans three Availability Zones and includes three public subnets.
